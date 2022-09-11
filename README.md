@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/name%20-praveen-green)
 
-## Project  [Live Link](https://paytm-clone-tailwind-project.netlify.app/)
+## Project  [Live Link](https://shopify-clone-tailwind-project.netlify.app/)
 
 -   What i learnt in this project
    - learnt tailwind css and its properties 
